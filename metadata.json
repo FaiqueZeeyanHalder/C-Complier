@@ -1,0 +1,6 @@
+{
+  "name": "CodeForge C",
+  "description": "Codeforge: #1 Online C Compiler with GCC execution, ISO C17 standard library support, interactive terminal, and multi-file projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
